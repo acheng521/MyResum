@@ -13,7 +13,7 @@
 
 
     
-    <table class="style4" >
+    <table class="style4" style="background-color: #ffff33;>
         <tr>
            <td class="style6">姓名: 李德成</td>
            <td class="style6">出生年月:  2001-8-22</td>
